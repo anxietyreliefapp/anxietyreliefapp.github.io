@@ -15,6 +15,7 @@ If you grant Anxiety Relief: Find Your Calm permission, we may collect and use p
 - Photos: Photo library access may be granted by the user in order to add photos to the user's 'Happy Place'. Data collected from this access remains on device unless shared by the user.
 
 - Health: HealthKit access may be optionally granted by the user to save the time they spend using the 'Breathing' tool as 'Mindful Minutes' data in the Apple Health app. Anxiety Relief: Find Your Calm does not share any data from the HealthKit framework without your consent.
+
 Please note that you can decline a permission or revoke it after you granted it in the iOS settings. If you do so, we will not collect your personal information related to that permission. However, the functionality of Anxiety Relief: Find Your Calm may be limited as a result.
 
 We may receive technical information about your device, for example, its IP address or operating system.
@@ -91,3 +92,5 @@ Please contact us if you have any questions or concerns.
 Ben Robinson
 
 anxietyreliefcontact@gmail.com
+
+*Apple is a trademark of Apple Inc., registered in the U.S. and other countries. HealthKit is a trademark of Apple Inc.*
