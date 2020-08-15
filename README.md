@@ -8,8 +8,8 @@ Feel free to contact anxietyreliefcontact@gmail.com if you have any feedback, qu
 
 ## Legal
 
-[Terms and conditions of use]("terms.md")
+[Terms and conditions of use]("benrobinson16.github.io/terms.md")
 
-[Privacy policy]("privacy-policy.md")
+[Privacy policy]("benrobinson16.github.io/privacy-policy.md")
 
 *iPhone and iPod touch are are trademarks of Apple Inc., registered in the U.S. and other countries.*
