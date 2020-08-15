@@ -91,5 +91,3 @@ Please contact us if you have any questions or concerns.
 Ben Robinson
 
 anxietyreliefcontact@gmail.com
-
-This privacy policy was generated with PrivacyFlash Pro
