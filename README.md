@@ -8,4 +8,4 @@ Anxiety Relief: Find Your Calm is a state of the art app for iPhone and iPod tou
 
 [Privacy policy]("privacy-policy.md")
 
-*iPhone and iPod touch are are trademarks of Apple Inc., registered in the U.S. and other countries.
+*iPhone and iPod touch are are trademarks of Apple Inc., registered in the U.S. and other countries.*
