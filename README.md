@@ -12,8 +12,8 @@ Feel free to contact anxietyreliefcontact@gmail.com if you have any feedback, qu
 
 ## Legal
 
-[Terms and conditions of use]("terms")
+[Terms and conditions of use](terms.md)
 
-[Privacy policy]("privacy-policy")
+[Privacy policy](privacy-policy.md)
 
 *iPhone and iPod touch are are trademarks of Apple Inc., registered in the U.S. and other countries.*
