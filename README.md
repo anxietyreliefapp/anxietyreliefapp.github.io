@@ -8,7 +8,7 @@ Available for download from the iOS app store. Search for "Anxiety Relief: Find 
 
 ## Contact
 
-Feel free to contact [anxietyreliefcontact@gmail.com] if you have any feedback, questions or comments concerning the app. Also, please see our [FAQs](faq.md).
+Feel free to contact <anxietyreliefcontact@gmail.com> if you have any feedback, questions or comments concerning the app. Also, please see our [FAQs](faq.md).
 
 ## Legal
 
