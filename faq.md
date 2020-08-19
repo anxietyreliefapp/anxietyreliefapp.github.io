@@ -1,6 +1,6 @@
 # FAQ
 
-### How do I download Anxiety Relief?
+### How do I download Anxiety Relief: Find Your Calm?
 To download Anxiety Relief, simply navigate to the App Store on an iPhone or iPod touch. Then, search Anxiety Relief on the search tab and click Get followed by Install.
 
 ### What tools are available?
@@ -25,6 +25,6 @@ There is no need to create an account or sign in to Anxiety Relief. Some feature
 
 <br><br>
 
-Have a different question? Why don't you contact us at anxietyreliefcontact@gmail.com?
+Have a different question? Why don't you contact us at [anxietyreliefcontact@gmail.com]?
 
 *App Store, iPhone, iPod touch and iCloud are trademarks of Apple Inc., registered in the U.S. and other countries.*
