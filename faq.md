@@ -25,4 +25,4 @@ There is no need to create an account or sign in to Anxiety Relief. Some feature
 
 Have a different question? Why don't you contact us at anxietyreliefcontact@gmail.com?
 
-**iCloud is a registered trademark of Apple Inc.**
+**iCloud is a trademark of Apple Inc., registered in the U.S. and other countries.**
