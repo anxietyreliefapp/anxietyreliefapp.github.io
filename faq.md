@@ -22,7 +22,9 @@ If at any time you would like to, simply navigate to About > Tool Settings > Gen
 
 ### Do I need an account?
 There is no need to create an account or sign in to Anxiety Relief. Some features (such as syncing settings across devices) will require you to be signed into an active iCloud account.
-<br>
+
+<br><br><br>
+
 Have a different question? Why don't you contact us at anxietyreliefcontact@gmail.com?
 
 *App Store, iPhone, iPod touch and iCloud are trademarks of Apple Inc., registered in the U.S. and other countries.*
