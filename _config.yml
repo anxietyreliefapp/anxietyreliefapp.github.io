@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: "Anxiety Relief: Find Your Calm"
 description: Take control of your anxiety.
 logo: ios-marketing.png
+show_downloads: false
