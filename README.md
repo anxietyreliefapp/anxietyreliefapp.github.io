@@ -4,7 +4,7 @@ Anxiety Relief: Find Your Calm is a state of the art app for iPhone and iPod tou
 
 ## Download
 
-Available for download from the iOS app store. Search for "Anxiety Relief: Find Your Calm" or click the badge below.
+Available for download from the iOS app store. Search for "Anxiety Relief: Find Your Calm" or click [here](https://apps.apple.com/gb/app/anxiety-relief-find-your-calm/id1460568970).
 
 ## Contact
 
