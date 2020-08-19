@@ -91,6 +91,6 @@ Please contact us if you have any questions or concerns.
 
 Ben Robinson
 
-anxietyreliefcontact@gmail.com
+<anxietyreliefcontact@gmail.com>
 
 *Apple is a trademark of Apple Inc., registered in the U.S. and other countries. HealthKit is a trademark of Apple Inc.*
