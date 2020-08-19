@@ -16,4 +16,4 @@ Feel free to contact anxietyreliefcontact@gmail.com if you have any feedback, qu
 
 [Privacy policy](privacy-policy.md)
 
-*iPhone and iPod touch are are trademarks of Apple Inc., registered in the U.S. and other countries.*
+*iPhone and iPod touch are trademarks of Apple Inc., registered in the U.S. and other countries.*
