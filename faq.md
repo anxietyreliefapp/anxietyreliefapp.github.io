@@ -1,7 +1,7 @@
 # FAQ
 
 ### How do I download Anxiety Relief?
-To download Anxiety Relief, simply navigate to the App Store on an iPhone or iPad. Then, search Anxiety Relief on the search tab and click Get followed by Install.
+To download Anxiety Relief, simply navigate to the App Store on an iPhone or iPod touch. Then, search Anxiety Relief on the search tab and click Get followed by Install.
 
 ### What tools are available?
 Anxiety Relief offers the following tools:
@@ -22,7 +22,7 @@ If at any time you would like to, simply navigate to About > Tool Settings > Gen
 
 ### Do I need an account?
 There is no need to create an account or sign in to Anxiety Relief. Some features (such as syncing settings across devices) will require you to be signed into an active iCloud account.
-
+<br>
 Have a different question? Why don't you contact us at anxietyreliefcontact@gmail.com?
 
-**iCloud is a trademark of Apple Inc., registered in the U.S. and other countries.**
+*App Store, iPhone, iPod touch and iCloud are trademarks of Apple Inc., registered in the U.S. and other countries.*
