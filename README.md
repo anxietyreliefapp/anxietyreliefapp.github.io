@@ -2,7 +2,7 @@
 
 Anxiety Relief: Find Your Calm is a state of the art app for iPhone and iPod touch that offers a new way to overcome anxiety.
 
-[Learn more about the breathing tool.](breathing.md)
+[Learn more about the breathing tool.](tools/breathing.md)
 
 ## Download
 
@@ -14,9 +14,9 @@ Feel free to contact <anxietyreliefcontact@gmail.com> if you have any feedback, 
 
 ## Legal
 
-[Terms and conditions of use](terms.md)
+[Terms and conditions of use](legal/terms.md)
 
-[Privacy policy](privacy-policy.md)
+[Privacy policy](legal/privacy-policy.md)
 
 <br><br>
 
