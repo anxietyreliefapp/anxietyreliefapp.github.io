@@ -5,12 +5,15 @@
             {
                 "appID": "QARY953TUQ.com.benrobinson.anxietyrelief",
                 "paths": [ 
-                    "/*"
+                    "*"
                 ]
             }
         ]
     },
     "appclips": {
         "apps": ["QARY953TUQ.com.benrobinson.anxietyrelief.Clip"]
-    }
+    },
+    "webcredentials": {
+      "apps": [ "QARY953TUQ.com.benrobinson.anxietyrelief" ]
+   }
 }
