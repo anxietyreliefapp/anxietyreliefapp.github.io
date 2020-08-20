@@ -4,6 +4,16 @@ Anxiety Relief: Find Your Calm is a state of the art app for iPhone and iPod tou
 
 [Learn more about the breathing tool.](tools/breathing.md)
 
+## Tools
+
+- [The Panic Button](tools/panicbutton.md)
+- [Breathing](tools/breathing.md)
+- [Quotes](tools/quotes.md)
+- [Affirmations](tools/affirmation.md)
+- [Drawing](tools/drawing.md)
+- [Phone A Friend](tools/phone.md)
+- [Happy Place](tools/happyplace.md)
+
 ## Download
 
 Available for download from the iOS app store. Search for "Anxiety Relief: Find Your Calm" or click [here](https://apps.apple.com/gb/app/anxiety-relief-find-your-calm/id1460568970).
